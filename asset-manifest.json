@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Hithesh-Portfolio/static/css/main.60f64185.chunk.css",
+    "main.js": "/Hithesh-Portfolio/static/js/main.fb6d4af9.chunk.js",
+    "main.js.map": "/Hithesh-Portfolio/static/js/main.fb6d4af9.chunk.js.map",
+    "runtime-main.js": "/Hithesh-Portfolio/static/js/runtime-main.9bc1cd6a.js",
+    "runtime-main.js.map": "/Hithesh-Portfolio/static/js/runtime-main.9bc1cd6a.js.map",
+    "static/js/2.fcb4fe20.chunk.js": "/Hithesh-Portfolio/static/js/2.fcb4fe20.chunk.js",
+    "static/js/2.fcb4fe20.chunk.js.map": "/Hithesh-Portfolio/static/js/2.fcb4fe20.chunk.js.map",
+    "static/js/3.4e147f92.chunk.js": "/Hithesh-Portfolio/static/js/3.4e147f92.chunk.js",
+    "static/js/3.4e147f92.chunk.js.map": "/Hithesh-Portfolio/static/js/3.4e147f92.chunk.js.map",
+    "index.html": "/Hithesh-Portfolio/index.html",
+    "static/css/main.60f64185.chunk.css.map": "/Hithesh-Portfolio/static/css/main.60f64185.chunk.css.map",
+    "static/js/2.fcb4fe20.chunk.js.LICENSE.txt": "/Hithesh-Portfolio/static/js/2.fcb4fe20.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9bc1cd6a.js",
+    "static/js/2.fcb4fe20.chunk.js",
+    "static/css/main.60f64185.chunk.css",
+    "static/js/main.fb6d4af9.chunk.js"
+  ]
+}
